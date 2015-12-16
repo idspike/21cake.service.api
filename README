@@ -1,0 +1,3 @@
+
+1. 添加api列表的方式， 在 /data/left.php 里直接添加，对应data/xxx.xxx.xxx.php
+2. 添加一个接口的定义，只需更改或添加  /data/left.php和/data/xxx.xxx.xxx.xx.php
